@@ -1,3 +1,2 @@
-React-Router-V6 Sample Project
+react router
 
-https://router-v6-clarusway.netlify.app/
